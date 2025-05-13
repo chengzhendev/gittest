@@ -18,6 +18,7 @@ public class GitTest {
         System.out.println("master test");
         System.out.println("develop test");
         System.out.println("github push test");
+        System.out.println("pull test");
 
     }
 }
